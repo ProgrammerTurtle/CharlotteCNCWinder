@@ -1,4 +1,7 @@
 # CharlotteCNCWinder
+
+<img width="3000" height="2400" alt="image" src="https://github.com/user-attachments/assets/bd01da73-a0e9-4326-83ce-a7eb1005dbc7" />
+
 Charlotte, named after Charlotte's Web, is a CNC filament winder intended for winding composite tubing. Carbon fiber, fiberglass, and even basalt composite are among the capabilities of this fully custom designed machine. My intention for this machine is to wind my own composite rocket body tubes and motor casings for high performance amateur rocketry. 
 
 ## Features
@@ -11,6 +14,9 @@ Charlotte, named after Charlotte's Web, is a CNC filament winder intended for wi
 - Marlin firmware 
 - Fully open source
 - Cyclone control software support (made by Andrew Reilley)
+
+<img width="3000" height="2400" alt="image" src="https://github.com/user-attachments/assets/0a3da8df-b84a-42e9-99e6-252e4de4327a" />
+
 
 This project is very inspired by Andrew Reilley's filament winder design, Contraption (https://www.reilley.net/winder/)
 
