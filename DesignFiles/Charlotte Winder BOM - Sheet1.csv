@@ -1,0 +1,52 @@
+Category,Name,Price,Source,Purpose
+Hardware,,,,
+,2x 250mm long 8mm threaded rod ,$6,https://www.aliexpress.us/item/3256808326219953.html?,Mandrel Shafts
+,3x 8mm shaft 6mm belt GT2 pulleys,$10,https://www.aliexpress.us/item/3256806031359840.html?,Power transmission to the mandrel assembly and linear belt
+,4x 120mm long 8mm threaded rod,$5.75,https://www.aliexpress.us/item/3256808326219953.html?,Roller Shafts
+,12x M8 hex nut,$4,https://www.aliexpress.us/item/2251832790859685.html?,"Roller shaft retainment, mandrel shaft retainment"
+,10x 3mm x 100mm Pins,$4.64,https://www.aliexpress.us/item/3256809715362151.html?,Alignment pins for the carbon tow
+,6mm x 330mm Pin,$4.65,https://www.aliexpress.us/item/3256805290944526.html?,Roller pin for the tow spool
+,"3"" OD 48"" Long Aluminum Mandrel ",N/A,Self Purchasing,This may also be 3D printed for early tests. 
+,2x 8mm Shaft Flange Coupling,$9.65,https://www.aliexpress.us/item/3256807692428400.html?,Axial connection between mandrel and shaft. 
+,60x  M5 x 12mm Socket Head Screws,$9,https://www.aliexpress.us/item/3256804341271555.html?,Non-Frame Assembly
+,10x  M5 x 20mm Socket Head Screws ,$2,https://www.aliexpress.us/item/3256804341271555.html?,V Wheel Shafts
+,60x  M5 x 10mm Socket Head Screws,$9,https://www.aliexpress.us/item/3256804341271555.html?,Non-Frame Assembly
+,20x  M5 x 10mm Button Head Screws ,$3.60,https://www.aliexpress.us/item/2251832624537980.html?,Frame Assembly
+,150x  M5 T-Nuts,$12,https://www.aliexpress.us/item/2251832778465720.html?,"Assembly, attaching parts to aluminum extrusion"
+,10x  M8 x 20mm Socket Head Screws,$4.18,https://www.aliexpress.us/item/3256804341271555.html?,Omega Drive (linear assembly) idlers
+,12x  M3 x 10mm Socket Head Screws,N/A,Already Owned,Delivery head mounting 
+,1x  M3 x 25mm Socket Head Screw,N/A ,Already Owned,Mandrel Belt Tensioner
+,12x  M3 Heat Set Insert,N/A,Already Owned,Mandrel Shaft Coupling
+,M8 x 120mm Pin/Dowel,$4,https://www.aliexpress.us/item/3256806084786860.html?,Roller for inside of the resin vat
+Frame,,,,
+,2x 1800mm 2040 Aluminum Extrusion,,,
+,4x 620mm 2040 Aluminum Extrusion,,,
+,2x 180mm 2040 Aluminum Extrusion,,,
+,1x 320mm 2040 Aluminum Extrusion,,,
+,,$168.23,Misumi,Machine Frame
+Electronics,,,,
+,Nema 23 x 2,$42,https://www.aliexpress.us/item/2255800858317364.html?,Linear motion and mandrel rotation
+,Nema 17x1,N/A,Already Owned,Delivery Head Rotation
+,150w 24v Power Supply,$19.03,https://www.aliexpress.us/item/3256810026148664.html?,Power for the entire thing 
+,SKR Mini Mainboard,$29.03,https://www.aliexpress.us/item/3256808738841426.html?,Control Board
+,Stepper Motor Cable Extensions 150cm,$3.10,https://www.aliexpress.us/item/2251832682897262.html?,Extend stepper motor cables for the motors on the carriage
+Motion,,,,
+,18x 688 bearing,$7,https://www.aliexpress.us/item/3256806864928166.html?,Axial support of any rotating shaft
+,2x 693 bearing,3.3,https://www.aliexpress.us/item/3256806864928166.html?,Mandrel Belt Tensioner
+,3 Meter gt2 open belt,$8.42,https://www.aliexpress.us/item/3256805584579937.html?,Linear motion of the delivery carriage 
+,304mm gt2 closed belt,$2.50,https://www.aliexpress.us/item/3256808692476629.html?,Power transmission to mandrel assembly
+,12x 24mm V Wheels,$12,https://www.aliexpress.us/item/3256805871377216.html?,Linear motion of the delivery carriage 
+Consumables,,,,
+,12k Carbon Fiber Tow 50m,$16.00,https://www.aliexpress.us/item/3256807909700471.html?,Material for Winding
+,Mylar Release Film/Sheet,N/A,,All other consumables are self purchased or already owned. 
+,Laminating Epoxy,N/A,,
+,Heat Shrink Tape,N/A,,
+,,,,
+,,,,
+,Total,399.08,,
+,,,,
+,Actual Cart Totals,,,
+,Alix,$226.64,,
+,Misumi,$168.23,,
+,,,,
+,True Grant Total,$394.87,,
