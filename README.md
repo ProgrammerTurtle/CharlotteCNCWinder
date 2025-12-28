@@ -14,13 +14,13 @@ Charlotte, named after Charlotte's Web, is a CNC filament winder intended for wi
 - Servobelt linear drive, which is a novel approach to belted motion systems, effectively turning a belt into a rack and pinion
 - Marlin firmware 
 - Fully open source
-- Cyclone control software support (made by Andrew Reilley)
+- [Cyclone](https://github.com/reilleya/cyclone) control software support (made by Andrew Reilley)
 
 <p align="center">
   <img width="2021" height="1471" alt="image" src="https://github.com/user-attachments/assets/a39df15c-6794-44d8-b0d6-ef26ab8d01b5" />
 </p>
 
-This project is inspired by Andrew Reilley's filament winder design, Contraption (https://www.reilley.net/winder/). Every part on my design is unique from the design of Conraption. 
+This project is inspired by Andrew Reilley's filament winder design, [Contraption](https://www.reilley.net/winder/). Every part in my design is unique from the design of Contraption. 
 
 The Bill of Materials for this project may be found here: https://docs.google.com/spreadsheets/d/1RtFfvJP7feuvO1JXcSI9StIg2ivD9I2__bdsefE5s5Q/edit?usp=sharing and is also attached to this repository as a .csv in the DesignFiles folder.
 
