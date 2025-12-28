@@ -20,7 +20,7 @@ Charlotte, named after Charlotte's Web, is a CNC filament winder intended for wi
   <img width="2021" height="1471" alt="image" src="https://github.com/user-attachments/assets/a39df15c-6794-44d8-b0d6-ef26ab8d01b5" />
 </p>
 
-This project is very inspired by Andrew Reilley's filament winder design, Contraption (https://www.reilley.net/winder/)
+This project is inspired by Andrew Reilley's filament winder design, Contraption (https://www.reilley.net/winder/). Every part on my design is unique from the design of Conraption. 
 
 The Bill of Materials for this project may be found here: https://docs.google.com/spreadsheets/d/1RtFfvJP7feuvO1JXcSI9StIg2ivD9I2__bdsefE5s5Q/edit?usp=sharing and is also attached to this repository as a .csv in the DesignFiles folder.
 
