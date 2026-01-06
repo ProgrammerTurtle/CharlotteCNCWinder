@@ -17,7 +17,7 @@ Hardware,,,,
 ,12x  M3 x 10mm Socket Head Screws,N/A,Already Owned,Delivery head mounting 
 ,1x  M3 x 25mm Socket Head Screw,N/A ,Already Owned,Mandrel Belt Tensioner
 ,12x  M3 Heat Set Insert,N/A,Already Owned,Mandrel Shaft Coupling
-,M8 x 120mm Pin/Dowel,$4,https://www.aliexpress.us/item/3256806084786860.html?,Roller for inside of the resin vat
+,M8 x 150mm Pin/Dowel,$4,https://www.aliexpress.us/item/3256806084786860.html?,Roller for inside of the resin vat
 Frame,,,,
 ,2x 1800mm 2040 Aluminum Extrusion,,,
 ,4x 620mm 2040 Aluminum Extrusion,,,
@@ -25,29 +25,28 @@ Frame,,,,
 ,1x 320mm 2040 Aluminum Extrusion,,,
 ,,$168.23,Misumi,Machine Frame
 Electronics,,,,
-,Nema 23 x 2,$42,https://www.aliexpress.us/item/2255800858317364.html?,Linear motion and mandrel rotation
+,Nema 23 x 2,$53,https://www.aliexpress.us/item/3256808159077499.html?,Linear motion and mandrel rotation
 ,Nema 17x1,N/A,Already Owned,Delivery Head Rotation
 ,150w 24v Power Supply,$19.03,https://www.aliexpress.us/item/3256810026148664.html?,Power for the entire thing 
-,SKR Mini Mainboard,$29.03,https://www.aliexpress.us/item/3256808738841426.html?,Control Board
+,SKR Mini Mainboard,$25.00,https://www.aliexpress.us/item/3256806208290436.html?,Control Board
 ,Stepper Motor Cable Extensions 150cm,$3.10,https://www.aliexpress.us/item/2251832682897262.html?,Extend stepper motor cables for the motors on the carriage
 Motion,,,,
 ,18x 688 bearing,$7,https://www.aliexpress.us/item/3256806864928166.html?,Axial support of any rotating shaft
 ,2x 693 bearing,3.3,https://www.aliexpress.us/item/3256806864928166.html?,Mandrel Belt Tensioner
-,3 Meter gt2 open belt,$8.42,https://www.aliexpress.us/item/3256805584579937.html?,Linear motion of the delivery carriage 
+,6 Meter gt2 open belt,$17.00,https://www.aliexpress.us/item/3256805584579937.html?,Linear motion of the delivery carriage 
 ,304mm gt2 closed belt,$2.50,https://www.aliexpress.us/item/3256808692476629.html?,Power transmission to mandrel assembly
 ,12x 24mm V Wheels,$12,https://www.aliexpress.us/item/3256805871377216.html?,Linear motion of the delivery carriage 
 Consumables,,,,
-,12k Carbon Fiber Tow 50m,$16.00,https://www.aliexpress.us/item/3256807909700471.html?,Material for Winding
-,Mylar Release Film/Sheet,N/A,,All other consumables are self purchased or already owned. 
+,12k Carbon Fiber Tow 50m,N/A,,All consumables self purchased 
+,Mylar Release Film/Sheet,N/A,,
 ,Laminating Epoxy,N/A,,
 ,Heat Shrink Tape,N/A,,
 ,,,,
 ,,,,
-,Total,399.08,,
+,Total,398.63,,
 ,,,,
 ,Actual Cart Totals,,,
-,Alix,$226.64,,
+,Alix,$225.74,,
 ,Misumi,$168.23,,
 ,,,,
-,True Grant Total,$394.87,,
-
+,True Grant Total,$393.97,,
