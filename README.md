@@ -11,7 +11,7 @@ Charlotte, named after Charlotte's Web, is a CNC filament winder intended for wi
 - 60 inches of usable tube length
 - Max tube diameter of 8.5 inches
 - Nema 23 mandrel and linear motors with a Nema 17 motor for delivery head rotation
-- Servobelt linear drive, which is a novel approach to belted motion systems, effectively turning a belt into a rack and pinion
+- Omegadrive linear drive, which is a novel approach to belted motion systems, effectively turning a belt into a rack and pinion
 - [Marlin](https://marlinfw.org/) firmware 
 - Fully open source
 - [Cyclone](https://github.com/reilleya/cyclone) control software support (made by Andrew Reilley)
